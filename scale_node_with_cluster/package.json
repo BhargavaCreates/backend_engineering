@@ -1,0 +1,15 @@
+{
+  "name": "scale_node_with_cluster",
+  "version": "1.0.0",
+  "description": "Demo of Scaling NodeJS using built in Cluster Module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Bhargava",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
